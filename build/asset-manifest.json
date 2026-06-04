@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.5c9493b4.css",
+    "main.js": "/static/js/main.b9cc0b6b.js",
+    "static/media/hero.png": "/static/media/hero.9c491fa468877187699a.png",
+    "static/media/Cricket-drive-picture.png": "/static/media/Cricket-drive-picture.5141e4d83b6a3533826d.png",
+    "static/media/Sporting-360_light.png": "/static/media/Sporting-360_light.8c7993a693b917a72680.png",
+    "index.html": "/index.html",
+    "main.5c9493b4.css.map": "/static/css/main.5c9493b4.css.map",
+    "main.b9cc0b6b.js.map": "/static/js/main.b9cc0b6b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5c9493b4.css",
+    "static/js/main.b9cc0b6b.js"
+  ]
+}

@@ -76,7 +76,7 @@ const StatItem = ({ item, isLast }) => {
         <Icon size={38} strokeWidth={1.5} className="text-[#ff5635] transition-colors duration-300 group-hover:text-white" />
       </div>
       <div>
-        <h3 className="sport-condensed text-[48px] font-bold leading-none text-[#2a2475] lg:text-[54px]">
+        <h3 className="text-[48px] font-bold leading-none text-[#2a2475] lg:text-[54px]">
           {displayValue}{suffix}
         </h3>
         <p className="mt-3 text-[18px] text-[#7a7a7a]">{item.label}</p>
@@ -91,7 +91,7 @@ const ArenaStatsSection = ({ className = "" }) => {
       <div className="mx-auto max-w-[1176px] px-5 lg:px-0">
         {/* Header */}
         <div className="text-center">
-          <h2 className="sport-condensed text-[30px] font-bold text-[#1d2c44] md:text-[35px]">
+          <h2 className="text-[30px] font-bold text-[#1d2c44] md:text-[35px]">
             Our Sports Arena In Just Numbers
           </h2>
 

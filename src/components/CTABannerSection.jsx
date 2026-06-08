@@ -31,7 +31,7 @@ const ParallaxBannerSection = () => {
         </div>
 
         {/* Heading */}
-        <h2 className="sport-condensed max-w-[700px] text-[48px] font-bold leading-[1.15] text-white md:text-[52px]">
+        <h2 className="max-w-[700px] text-[48px] font-bold leading-[1.15] text-white md:text-[52px]">
           Stay Connected. Stay
           <br />
           Active. Play Hard.

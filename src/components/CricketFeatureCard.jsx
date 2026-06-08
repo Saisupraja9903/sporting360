@@ -18,7 +18,7 @@ const CricketFeatureCard = () => {
           </div>
 
           <div>
-            <h3 className="sport-condensed whitespace-nowrap text-[26px] font-black leading-none text-white">
+            <h3 className="whitespace-nowrap text-[26px] font-black leading-none text-white">
               {feature.club}
             </h3>
             <a href="#tour" className="mt-4 inline-block text-[16px] font-medium leading-none text-[#00d05c] underline underline-offset-2 transition-colors duration-300 hover:text-white">
@@ -40,7 +40,7 @@ const CricketFeatureCard = () => {
         <div className="flex items-center justify-center lg:justify-end">
           <div className="relative flex h-[60px] w-full max-w-[430px] items-center justify-between border border-[#00ff66] px-6 pr-12">
             <span className="text-[14px] font-medium leading-tight text-white">
-              <strong className="sport-condensed text-[16px] font-black">{feature.eventLabel}</strong> {feature.eventName}
+              <strong className="text-[16px] font-black">{feature.eventLabel}</strong> {feature.eventName}
             </span>
 
             <button

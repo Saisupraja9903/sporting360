@@ -30,7 +30,7 @@ const MembershipSection = () => {
           <div className="grid grid-cols-1 lg:grid-cols-[58%_42%]">
             {/* LEFT PANEL */}
             <div className="bg-[#10c656] py-4 px-8 lg:px-6 flex flex-col justify-center">
-              <h2 className="sport-condensed text-[42px] font-bold leading-[1.95] text-white">
+              <h2 className="text-[42px] font-semibold leading-[1.1] text-white">
                 Become A Member
               </h2>
 
@@ -57,7 +57,7 @@ const MembershipSection = () => {
 
             {/* RIGHT PANEL */}
             <div className="bg-[#f8f8f8] px-8 lg:px-14 py-4 flex flex-col justify-center">
-              <h2 className="sport-condensed text-[34px] font-bold leading-[1.05] text-black max-w-[520px]">
+              <h2 className="text-[34px] font-semibold leading-[1.05] text-black max-w-[520px]">
                 Fill The Form To Become A
                 <br />
                 Member

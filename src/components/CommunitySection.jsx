@@ -61,7 +61,7 @@ const CommunitySection = () => {
 
           <div className="max-w-[520px]">
 
-            <h2 className="sport-condensed text-[40px] font-bold leading-[1.05] text-[#1E2B45]">
+            <h2 className="text-[40px] font-bold leading-[1.05] text-[#1E2B45]">
               Stay Connected. Stay Active. <br />
               Play Hard.
             </h2>

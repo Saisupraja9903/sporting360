@@ -47,7 +47,7 @@ const ClubPartnersSection = ({ className = "" }) => {
       <div className="mx-auto max-w-[1176px] px-5 md:px-8 lg:px-0">
         {/* Header */}
         <div className="text-center">
-          <h2 className="sport-condensed text-[18px] font-bold leading-tight text-[#1E266D] md:text-[24px] lg:text-[30px]">
+          <h2 className="text-[18px] font-bold leading-tight text-[#1E266D] md:text-[24px] lg:text-[30px]">
             Sports Clubs & Partners That Joined Our Arena
           </h2>
 
@@ -99,25 +99,6 @@ const ClubPartnersSection = ({ className = "" }) => {
             ))}
           </Swiper>
         </div>
-
-        {/* Custom style for Swiper pagination dots */}
-        <style jsx="true">{`
-          .swiper-pagination {
-            bottom: 0px !important;
-          }
-          .swiper-pagination-bullet {
-            width: 7px;
-            height: 7px;
-            background: #cbd5e1;
-            opacity: 1;
-            margin: 0 10px !important;
-            transition: all 0.3s ease;
-          }
-          .swiper-pagination-bullet-active {
-            background: #10c851 !important;
-            transform: scale(1.4);
-          }
-        `}</style>
       </div>
     </section>
   );

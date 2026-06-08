@@ -32,11 +32,11 @@ const WhyChooseUsSection = ({ className = "" }) => {
 
           {/* LEFT SIDE */}
           <div>
-            <span className="sport-condensed text-[18px] font-bold text-[#14c65a] md:text-[22px]">
+            <span className="text-[18px] font-bold text-[#14c65a] md:text-[22px]">
               Why Choose Us
             </span>
 
-            <h2 className="sport-condensed mt-6 text-[32px] font-bold leading-[1.15] text-[#1d2c44] lg:text-[40px]">
+            <h2 className="mt-6 text-[32px] font-bold leading-[1.15] text-[#1d2c44] lg:text-[40px]">
               Unleash Your True Sporting Potential With Our Exceptional
               Sporting360
             </h2>
@@ -62,7 +62,7 @@ const WhyChooseUsSection = ({ className = "" }) => {
                       />
                     </div>
 
-                    <h3 className="sport-condensed mt-5 whitespace-pre-line text-center text-[26px] font-bold leading-[1.3] text-[#1d2c44]">
+                    <h3 className="mt-5 whitespace-pre-line text-center text-[26px] font-bold leading-[1.3] text-[#1d2c44]">
                       {feature.title}
                     </h3>
                   </div>
@@ -135,7 +135,7 @@ const WhyChooseUsSection = ({ className = "" }) => {
                   </div>
 
                   <div>
-                    <h3 className="sport-condensed text-[20px] font-bold text-[#29246d]">
+                    <h3 className="text-[20px] font-bold text-[#29246d]">
                       We Are Ready To Serve You.
                     </h3>
 
